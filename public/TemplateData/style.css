@@ -1,0 +1,12 @@
+body { 
+    padding: 0;
+    margin: 0;
+    background: #231F20
+}
+.unity-container{
+    background-color: black;
+}
+
+canvas {
+    background-color: rgb(37, 37, 37);
+}
